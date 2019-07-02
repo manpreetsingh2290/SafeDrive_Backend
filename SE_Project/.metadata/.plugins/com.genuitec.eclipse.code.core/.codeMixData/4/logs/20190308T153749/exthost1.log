@@ -1,0 +1,18 @@
+[2019-03-08 15:37:57.665] [exthost1] [info] extension host started
+[2019-03-08 15:37:57.753] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-03-08 15:37:57.754] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Manpreet\.codemix\engine\resources\app\extensions\debug-auto-launch\out\extension
+[2019-03-08 15:37:57.914] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-03-08 15:37:57.915] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Manpreet\.codemix\engine\resources\app\extensions\emmet\dist\extension
+[2019-03-08 15:37:58.043] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-03-08 15:37:58.043] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Manpreet\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2019-03-08 15:37:58.325] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2019-03-08 15:37:58.325] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Manpreet\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2019-03-08 15:37:58.708] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-03-08 15:37:58.708] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Manpreet\.codemix\extensions\christian-kohler.path-intellisense-1.4.2\out\src\extension
+[2019-03-08 15:37:58.995] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-03-08 15:37:58.995] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Manpreet\.codemix\extensions\dbaeumer.vscode-eslint-1.4.10\client\out\extension
+[2019-03-08 15:37:59.804] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-03-08 15:37:59.804] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Manpreet\.codemix\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2019-03-08 15:37:59.816] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-03-08 15:37:59.816] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Manpreet\.codemix\extensions\formulahendry.auto-rename-tag-0.0.15\out\src\extension
+[2019-03-08 15:37:59.850] [exthost1] [info] eager extensions activated
