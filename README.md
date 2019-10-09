@@ -1,2 +1,2 @@
-# SafeDrive_Backend
-Back-end Code For Safe Drive App to show the real-time location of vehicles
+## SafeDrive_Backend
+Back-end code for Safe Drive android mobile application to show the real-time location of vehicles
