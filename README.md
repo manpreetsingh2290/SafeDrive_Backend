@@ -1,2 +1,2 @@
 # SafeDrive_Backend
-Backend Code For Safe Drive_App to show the realtime locaion of vehicles
+Back-end Code For Safe Drive App to show the real-time location of vehicles
